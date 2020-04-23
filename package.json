@@ -1,0 +1,32 @@
+{
+  "name": "react-native-skeleton-elements",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib/**/*"
+  ],
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tr3v3r/react-native-skeleton-elements.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-skeleton",
+    "react-native-linear-gradient"
+  ],
+  "bugs": {
+    "url": "https://github.com/tr3v3r/react-native-skeleton-elements/issues"
+  },
+  "homepage": "https://github.com/tr3v3r/react-native-skeleton-elements#readme",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*",
+    "react-native-linear-gradient": "*"
+  },
+  "author": "Aliaksei Astafyeu",
+  "license": "MIT"
+}
