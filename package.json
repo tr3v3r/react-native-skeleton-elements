@@ -8,6 +8,7 @@
     "lib/**/*"
   ],
   "scripts": {
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
@@ -28,5 +29,8 @@
     "react-native-linear-gradient": "*"
   },
   "author": "Aliaksei Astafyeu",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
 }
