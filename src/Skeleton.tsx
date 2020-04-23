@@ -1,6 +1,7 @@
-import React, { memo, useMemo, useCallback, useEffect } from 'react'
+import * as React  from 'react'
 import { Animated, StyleSheet, View } from 'react-native'
 import LinearGradient from 'react-native-linear-gradient'
+const  { memo, useMemo, useCallback, useEffect } = React
 import {
   DEFAULT_ANIMATION_TYPE,
   DEFAULT_ANIMATION_DIRECTION,
